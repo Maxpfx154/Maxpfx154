@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Max 👋
 
-<!--
-**Maxpfx154/Maxpfx154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old student from Bavaria focusing on computer science, AI workflows and automation.  
+On this GitHub profile I share experiments, small tools and workflows around productivity, automation and knowledge management.
 
-Here are some ideas to get you started:
+### What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted workflows and prompt engineering
+- Automation with tools like n8n
+- Clean note-taking and knowledge systems (e.g. Obsidian)
+- Web basics: HTML, CSS, JavaScript, React and some VBA
+
+### Currently
+
+- Exploring how to automate job and recruiting-related workflows
+- Building small scripts and automations to save time in study and everyday work
+- Learning more about modern backends, APIs and data workflows
+
+### Get in touch
+
+- Feel free to open an issue or discussion on any repo
